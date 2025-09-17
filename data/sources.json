@@ -1,0 +1,21 @@
+{
+  "domains": [
+    "arxiv.org",
+    "nature.com",
+    "science.org",
+    "pnas.org",
+    "cell.com",
+    "nejm.org",
+    "thelancet.com",
+    "bmj.com",
+    "pubmed.ncbi.nlm.nih.gov",
+    "sciencedirect.com",
+    "springer.com",
+    "wiley.com",
+    "ieee.org",
+    "acm.org",
+    "aaas.org"
+  ],
+  "lastUpdated": "2024-09-17T15:00:00.000Z",
+  "addedBy": "system"
+}
